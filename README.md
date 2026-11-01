@@ -7,11 +7,12 @@
 
 <table width="100%" style="border: 1px solid #0ABAB5; border-radius: 12px; background-color: #0D1117;">
   <tr>
-    <td style="padding: 20px; color: #FFFFFF; font-family: monospace;">
-      <p><span style="color: #0ABAB5;">$</span> system.init --user="Anh Phung"</p>
-      <p><b>Education:</b> Final-year Computer Science Student @ University of Greenwich</p>
-      <p><b>Career Goal:</b> AI Engineer & Quant Trading Explorer</p>
-      <p><b>Core Philosophy:</b> Designing & engineering practical, high-value applications for real-world users and personal workflow efficiency.</p>
+    <td style="padding: 15px;">
+      <pre><code>$ system.init --user="Anh Phung"
+
+Education: Final-year Computer Science Student @ University of Greenwich
+Career Goal: AI Engineer & Quant Trading Explorer
+Core Philosophy: Designing & engineering practical, high-value applications for real-world users and personal workflow efficiency.</code></pre>
     </td>
   </tr>
 </table>
