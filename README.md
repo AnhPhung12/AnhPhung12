@@ -10,8 +10,7 @@
   <tr>
     <td width="38%" align="center" style="padding: 20px;">
       <!-- Avatar áo da ngầu của bạn -->
-      <img src="LINK_ANH_AO_DA_CUA_BAN" width="200px" style="border-radius: 50%; border: 2px solid #0ABAB5;" />
-      <h3 style="color: #0ABAB5; margin-top: 15px;">[Tên của bạn] ⚡</h3>
+      <h3 style="color: #0ABAB5; margin-top: 15px;">Nguyen Thi Anh Phung ⚡</h3>
       <p style="color: #ffffff; font-size: 13px;"><i>AI Engineer | Quant Trader</i></p>
     </td>
     <td width="62%" style="padding: 20px; color: #FFFFFF; font-family: monospace;">
