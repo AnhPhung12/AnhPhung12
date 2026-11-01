@@ -18,7 +18,7 @@
 
 <!-- TECH STACK ICONS -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,docker,cpp,kaggle,react,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,docker,cpp,react,vue,js,html,css,tailwind,csharp,php,git&theme=dark" />
 </div>
 
 <br/>
