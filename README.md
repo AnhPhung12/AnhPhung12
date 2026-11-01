@@ -15,6 +15,7 @@
     </td>
   </tr>
 </table>
+
 ## About Me
 
 - **Academic & Career Focus:** I am in my final year of Computer Science at Greenwich University, shaping my professional journey toward **Artificial Intelligence Engineering**.
