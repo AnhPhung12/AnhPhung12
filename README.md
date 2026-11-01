@@ -4,6 +4,26 @@
 </div>
 
 <br/>
+
+<table width="100%" style="border: 1px solid #0ABAB5; border-radius: 12px; background-color: #0D1117;">
+  <tr>
+    <td style="padding: 20px; color: #FFFFFF; font-family: monospace;">
+      <p><span style="color: #0ABAB5;">$</span> system.init --user="Anh Phung"</p>
+      <p><b>Education:</b> Final-year Computer Science Student @ University of Greenwich</p>
+      <p><b>Career Goal:</b> AI Engineer & Quant Trading Explorer</p>
+      <p><b>Core Philosophy:</b> Designing & engineering practical, high-value applications for real-world users and personal workflow efficiency.</p>
+    </td>
+  </tr>
+</table>
+
+## About Me
+
+- **Academic & Career Focus:** I am in my final year of Computer Science at Greenwich University, shaping my professional journey toward **Artificial Intelligence Engineering**.
+- **Market Dynamics:** Deeply fascinated by modern economic structures, market behavior, and algorithmic financial analysis.
+- **Product Crafting:** I thrive on building meaningful, functional applications that solve real problems for both myself and end users.
+- **Creative Outlets & Unwinding:** Beyond code, I find balance through music (piano), fine art, and conceptualizing 3D visual simulations to reset and refuel my creative energy after intensive engineering sessions.
+
+<br/>
 <!-- CÁC KHU VỰC WORKSTATION (HUY HIỆU ĐỘC QUYỀN) -->
 <h3 align="center"><font color="#0ABAB5">🎛️ LAB SKILLS & WORKSTATIONS</font></h3>
 
