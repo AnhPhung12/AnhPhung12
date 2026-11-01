@@ -5,17 +5,14 @@
 
 <br/>
 
-<table width="100%" style="border: 1px solid #0ABAB5; border-radius: 12px; background-color: #0D1117;">
-  <tr>
-    <td style="padding: 15px;">
-      <pre><code>$ system.init --user="Anh Phung"
-
-Education: Final-year Computer Science Student @ University of Greenwich
-Career Goal: AI Engineer & Quant Trading Explorer
-Core Philosophy: Designing & engineering practical, high-value applications for real-world users and personal workflow efficiency.</code></pre>
-    </td>
-  </tr>
-</table>
+```markdown
+> ```text
+> $ system.init --user="Anh Phung"
+> 
+> Education: Final-year Computer Science Student @ University of Greenwich
+> Career Goal: AI Engineer & Quant Trading Explorer
+> Core Philosophy: Designing & engineering practical, high-value applications for real-world users and personal workflow efficiency.
+> ```
 
 ## About Me
 
