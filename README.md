@@ -5,7 +5,7 @@
 
 <br/>
 
-```markdown
+
 > ```text
 > $ system.init --user="Anh Phung"
 > 
